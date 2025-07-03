@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Amnat-auyana1998/Amnat-auyana1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amnat-auyana1998/Amnat-auyana1998** is a ✨ _special_ ✨ repository because its `README.md` (this files) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
